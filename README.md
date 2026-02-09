@@ -8,6 +8,8 @@ The app aims to bridge the gap between students and faculty by offering a unifie
 It supports real-time notifications and event updates ensuring that users stay informed about all academic and extracurricular activities.
 The application is built using JavaScript using React Native Framework for cross-platform compatibility and real-time data synchronization.
 
+Live Demo: https://www.youtube.com/watch?v=sxdHspDO7nM
+
 <!--
 
  ![splash-screen](https://github.com/user-attachments/assets/e989c799-6816-432c-b7ea-95e79ad019b7) 
